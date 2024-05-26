@@ -23,6 +23,6 @@ const textFont = StyleSheet.create({
   fonts: {
     fontSize: 24,
     //fontWeight: 'bold',
-    color: '#000000'
+    //color: '#000000'
   }
 })
