@@ -47,4 +47,5 @@ styles: Defines styles for the container view (flex, backgroundColor, alignItems
 textFont: Defines styles for the text (fontSize). You can uncomment fontWeight and color properties to set the font weight and color.
  
 ## Screenshots
-![Alt text for your image](rn-assignment2-11100931/my-image)
+![My App Screenshot](rn-assignment2-11100931/myApp.png)
+
