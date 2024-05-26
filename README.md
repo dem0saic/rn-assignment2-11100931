@@ -2,11 +2,9 @@
 React Native - My Introduction App
 This is a simple React Native application that displays a text greeting.
 
-Features
+## Features
 Displays the text "My name is Owusu Vincent" with "Owusu Vincent" in bold font.
 Running the App
-
-
 ## Prerequisites:
 Node.js and npm (or yarn) installed on your system.
 Steps:
@@ -47,5 +45,5 @@ styles: Defines styles for the container view (flex, backgroundColor, alignItems
 textFont: Defines styles for the text (fontSize). You can uncomment fontWeight and color properties to set the font weight and color.
  
 ## Screenshots
-![My App Screenshot](rn-assignment2-11100931/myApp.png)
+![My App Screenshot](myApp.png)
 
